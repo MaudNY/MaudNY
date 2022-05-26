@@ -22,6 +22,6 @@ I'm currently working on [InBetween](https://github.com/MaudNY/P7_11022022_InBet
 
 > MySQL
 
-> React
+> React / Next.js
 
 *Upcoming details [soon](https://github.com/MaudNY/VORTEX./blob/main/README.md).*
